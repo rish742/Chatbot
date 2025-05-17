@@ -1,0 +1,6 @@
+numpy>=1.26.0
+nltk
+tensorflow
+keras
+matplotlib
+# Do NOT include tkinter or pickle5
